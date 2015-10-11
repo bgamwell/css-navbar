@@ -1,4 +1,9 @@
 /*Strip the ul of padding and list styling*/
+
+body{
+	margin: 0;
+}
+
 ul {
 	text-decoration;
 	margin:0;
