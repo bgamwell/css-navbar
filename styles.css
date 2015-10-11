@@ -1,11 +1,11 @@
 /*Strip the ul of padding and list styling*/
 
-body{
+body {
 	margin: 0;
 }
 
 ul {
-	text-decoration;
+	text-decoration: none;
 	margin:0;
 	padding:0;
 	position: absolute;
